@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+
 from IPython.display import display
 
 # Dictionary that maps city names to their respective data file names.
